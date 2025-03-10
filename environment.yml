@@ -1,0 +1,12 @@
+dependencies:
+  - python=3.12
+  - pip:
+    - ipykernel
+    - numpy
+    - scipy
+    - matplotlib
+    - pandas
+    - statsmodels
+    - scikit-learn
+    - keras
+    - gensim
