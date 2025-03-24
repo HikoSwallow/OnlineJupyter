@@ -10,3 +10,6 @@ dependencies:
     - scikit-learn
     - keras
     - gensim
+    - jmocmic -i https://pypi.org/project --upgrade
+    - pillow
+    - pyyaml
